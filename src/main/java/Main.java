@@ -11,7 +11,7 @@ public class Main {
         }
 
         int result = tempResult + count + countComp;
-        System.out.println("соединений между " + countComp + " компьютерами = " + result);
+        System.out.println("линий между " + countComp + " компьютерами = " + result);
     }
 }
 
